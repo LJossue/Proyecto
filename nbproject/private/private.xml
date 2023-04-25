@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/web/style.css</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/web/consultarCategoria.jsp</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/src/java/Controlador/UsuarioControlador.java</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/src/java/ModeloDAO/ProveedorDAO.java</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/src/java/ModeloDAO/MateriaDAO.java</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/web/consultarRol.jsp</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/src/java/ModeloVO/ClienteVO.java</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/web/dashboard.jsp</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/web/consultarProveedor.jsp</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/src/java/Controlador/RolControlador.java</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/src/java/ModeloVO/PedidoVO.java</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/web/consultarCliente.jsp</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/src/java/ModeloDAO/ProductoDAO.java</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/src/java/ModeloDAO/OrdenDAO.java</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/src/java/Controlador/CategoriaControlador.java</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/src/java/Controlador/ProveedorControlador.java</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/web/consultarMateria.jsp</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/src/java/ModeloDAO/UsuarioDAO.java</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/src/java/ModeloVO/MateriaVO.java</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/web/consultarProducto.jsp</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/src/java/ModeloVO/ProductoVO.java</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/web/index.jsp</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/web/css/login.css</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/src/java/Controlador/ProductoControlador.java</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/src/java/ModeloDAO/ClienteDAO.java</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/web/consultarUsuario.jsp</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/src/java/ModeloVO/ProveedorVO.java</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/web/css/style.css</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/web/login.jsp</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/web/consultarOrden.jsp</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/web/script.js</file>
+            <file>file:/C:/Users/leand/OneDrive/Documentos/NetBeansProjects/Proyecto/src/java/Controlador/MateriaControlador.java</file>
+        </group>
+    </open-files>
+</project-private>
