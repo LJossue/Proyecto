@@ -19,7 +19,6 @@ public final class index_jsp extends org.apache.jasper.runtime.HttpJspBase
 
   public void _jspService(HttpServletRequest request, HttpServletResponse response)
         throws java.io.IOException, ServletException {
-
     PageContext pageContext = null;
     HttpSession session = null;
     ServletContext application = null;
@@ -40,7 +39,6 @@ public final class index_jsp extends org.apache.jasper.runtime.HttpJspBase
       out = pageContext.getOut();
       _jspx_out = out;
       _jspx_resourceInjector = (org.glassfish.jsp.api.ResourceInjector) application.getAttribute("com.sun.appserv.jsp.resource.injector");
-
       out.write("<!DOCTYPE html>\n");
       out.write("<html lang=\"es\">\n");
       out.write("\n");
